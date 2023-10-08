@@ -1,0 +1,15 @@
+{
+  "name": "calculadora-imc-fap-softex",
+  "version": "1.0.0",
+  "description": "Desafio proposto no curso Formação Acelerada em Programação - Softex - BackEnd turma 2 - 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
